@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Lucas Vidal 😃👍
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vidal_7/){target="_blank"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvidalads/){target="_blank"}
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vidal_7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvidalads/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidaaall&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidaaall&show_icons=true&theme=synthwave)
 
 ### Tecnologias que uso no meu dia a dia: 
 
